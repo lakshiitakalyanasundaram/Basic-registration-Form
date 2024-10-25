@@ -46,6 +46,7 @@ This project is a simple registration form that captures user information, inclu
         created_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP
     );
 5. Configure the database connection in submit.php by updating the $host, $dbname, $user, and $password variables.
+
    
 ### Usage
 - Open form.html in your web browser.
